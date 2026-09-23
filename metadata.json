@@ -1,0 +1,6 @@
+{
+  "name": "FinGuard - Risk-Tiered Financial AI Governance Platform",
+  "description": "FinGuard is a risk-tiered financial AI governance platform orchestrating user financial queries through real-time risk assessment, evidence verification, human review queues, and audit traces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
